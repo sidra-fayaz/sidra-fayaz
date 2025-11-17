@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSko-FL59WMj-EFn7Zcq8mQ8hlUn6a7MBfoDw&s)](https://sidraFayaz.io)
 <h1 align="center">Hi 👋, I'm Sidra Fayaz</h1>
 <h3 align="center">Web Developer | Frontend Engineer (React) | MySql | Git/GitHub | Cybersecurity Enthusiast</h3>
 
