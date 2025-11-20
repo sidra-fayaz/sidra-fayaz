@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidra Fayaz</h1>
 <h3 align="center">Web Developer | Frontend Engineer (React) | MySql | Git/GitHub | Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidra-fayaz&label=Profile%20views&color=0e75b6&style=flat" alt="sidra-fayaz" /> </p>
 
